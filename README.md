@@ -13,3 +13,7 @@ This project provides the features of a full vaccine management system, enabling
 ## Testing
 
 I have also included a utility class, *MakeFakeAppts*, to generate fake appointments. This should allow you to test out the full feature set of the system. Happy booking!
+
+## Development Info
+
+Originally built just after the onset of the COVID-19 pandemic, but recently pushed to GitHub!
