@@ -1,0 +1,119 @@
+Susan
+Singer
+1965/09/22
+Toronto Congress Centre
+1
+
+Mary
+Malone
+1972/12/03
+Toronto Congress Centre
+2
+
+Jennifer
+Joffrey
+1990/11/19
+Metro Toronto Convention Centre
+1
+
+Stuart
+Starr
+1970/03/11
+Metro Toronto Convention Centre
+2
+
+Amanda
+Adams
+1993/07/01
+Scarborough Town Centre
+1
+
+Megan
+Merowitz
+1993/04/04
+Scarborough Town Centre
+2
+
+Ben
+Barnum
+1972/09/01
+Carmine Stefano Community Centre
+1
+
+Alice
+Anne
+1979/09/28
+Carmine Stefano Community Centre
+2
+
+Mina
+Monroe
+1984/02/18
+East York Town Centre
+1
+
+Dan
+Davis
+1989/01/07
+East York Town Centre
+2
+
+Fran
+Friedman
+1971/06/20
+Mitchell Field Arena
+1
+
+Sarah
+Sekler
+1954/09/01
+Mitchell Field Arena
+2
+
+Aidan
+Avitan
+1976/02/26
+Malvern Community Recreation Centre
+1
+
+Kate
+Katz
+1985/11/08
+Malvern Community Recreation Centre
+2
+
+Naomi
+Nadler
+1979/08/19
+The Hangar Sport and Event Centre
+1
+
+Steven
+Stein
+1988/03/11
+The Hangar Sport and Event Centre
+2
+
+Randy
+Ring
+1962/05/05
+Cloverdale Mall
+1
+
+Nate
+Nathans
+1968/02/22
+Cloverdale Mall
+2
+
+Linda
+Lowe
+1971/07/17
+North Toronto Memorial Community Centre
+1
+
+Gillian
+Goldberg
+1967/08/09
+North Toronto Memorial Community Centre
+2
